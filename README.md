@@ -26,4 +26,4 @@ Oportunidades de **estágio em desenvolvimento web e mobile**.
 ## 📫 Contato
 
 - ✉️ fselva115@gmail.com
-- 💼 [LinkedIn](https://www.linkedin.com/in/SEU-LINK-AQUI](https://www.linkedin.com/in/fernanda-selva-b569b1376/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BONG54pqeTvib0KWCRtmGgA%3D%3D))
+- 💼 [LinkedIn](https://www.linkedin.com/in/fernanda-selva-b569b1376/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BONG54pqeTvib0KWCRtmGgA%3D%3D)
