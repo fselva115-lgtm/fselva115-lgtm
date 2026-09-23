@@ -6,10 +6,10 @@ Antes da tecnologia, passei 2 anos na Marinha do Brasil como Fuzileiro Naval, at
 
 ##  O que estou fazendo agora
 
-- 🎓 Cursando **Gestão em Tecnologia da Informação** — IBMR (conclusão prevista em 2027)
-- 📱 Aprendendo **Desenvolvimento Mobile** — SENAI
-- 💻 Na trilha **Full Stack** — Origamid
-- 🔭 Praticando HTML, CSS e JavaScript em projetos pessoais
+-  Cursando **Gestão em Tecnologia da Informação** — IBMR (conclusão prevista em 2027)
+-  Aprendendo **Desenvolvimento Mobile** — SENAI
+-  Na trilha **Full Stack** — Origamid
+-  Praticando HTML, CSS e JavaScript em projetos pessoais
 
 ##  Tecnologias
 
